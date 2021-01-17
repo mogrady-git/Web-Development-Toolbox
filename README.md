@@ -11,3 +11,6 @@
 
 # MySQL Server
 - https://dev.mysql.com/doc/ - MySQL Reference Manual 
+
+# Java
+- https://docs.oracle.com/en/java/javase/15/ - Java API Specification.
