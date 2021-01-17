@@ -7,6 +7,7 @@
 
 # PHP
 - https://www.php.net/docs.php - PHP Documentation Reference
+- https://phptherightway.com/ - PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
 
 # MySQL Server
 - https://dev.mysql.com/doc/ - MySQL Reference Manual 
