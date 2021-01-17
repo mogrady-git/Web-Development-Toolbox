@@ -8,3 +8,5 @@
 # PHP
 - https://www.php.net/docs.php - PHP Documentation Reference
 
+# MySQL Server
+- https://dev.mysql.com/doc/ - MySQL Reference Manual 
