@@ -14,3 +14,6 @@
 
 # Java
 - https://docs.oracle.com/en/java/javase/15/ - Java API Specification.
+
+# Python
+- https://docs.python.org/3/py-modindex.html - Python Module Index
